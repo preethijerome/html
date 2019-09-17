@@ -1,0 +1,72 @@
+/* main page */
+body {
+  
+  font-family: 'Times New Roman', Times, serif;
+  
+  
+}
+
+.nav{
+  color: darkolivegreen;
+  float: right;   
+  padding: 10px;
+}
+  
+.button{
+  color: rgb(241, 2, 14);
+  padding:20px;
+  font-size: 17px;
+}
+    
+.home{
+  background-color: rgb(224, 238, 199);
+  margin-top: 60px;
+  }
+
+ .home p{
+  font-size: 20px;
+  float: right; 
+  padding: 90px;
+ }
+  
+
+.pet{
+  padding: 90px;
+  background-color: antiquewhite; 
+      
+}  
+/* main page */
+
+.feature{
+
+  padding: 150px;
+  background-color: bisque;
+  
+}
+
+
+
+.lab h2{
+  font-size: 15px;
+  float: right;
+  padding-right: 380px;
+  padding-top: 50px;
+}
+
+.cont {
+
+  padding:100px;
+  background-color: rgb(243, 220, 191);
+  
+
+
+}
+
+.cont p{
+
+  font-size: 20px;
+  float: right;
+  /* padding-right: 580px; */
+  padding: 50px;
+  margin-right: 400px;
+}
